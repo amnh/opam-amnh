@@ -1,8 +1,8 @@
 opam-version: "1"
 
-name : "phylocaml
+name : "phylocaml"
 
-homepage : "http://github.com/amnh/phylocaml/"
+homepage : "http://github.com/amnh/phylocaml"
 
 authors : [ "Lavanya Kannan" "Nicholas Lucaroni" "Ward Wheeler" ]
 
