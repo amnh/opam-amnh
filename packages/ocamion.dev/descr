@@ -1,0 +1,4 @@
+Combinatorial and Numerical Optimization Library
+
+Ocamion is a library containing numerical optimization routines written in OCaml
+with additional bindings and functions to external libraries (if available).

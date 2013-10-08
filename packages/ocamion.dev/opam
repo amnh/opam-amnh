@@ -1,0 +1,26 @@
+opam-version: "1"
+
+name : "ocamion"
+
+homepage : "http://github.com/amnh/ocamion"
+
+authors : [ "Nicholas Lucaroni" ]
+
+license: "MPL v2.0"
+
+tags: ["opimization" "numerical"]
+
+maintainer: "nlucaroni@amnh.org"
+
+build : [
+    ["make"]
+    ["make" "install"]
+]
+
+remove : ["ocamlfind" "remove" "ocamion"]
+
+build-doc : ["make" "docs"]
+
+depends: [ "ocamlfind" ]
+
+ocaml-version : [>= "4.00.0"]
