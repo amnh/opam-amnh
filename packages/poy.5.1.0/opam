@@ -2,7 +2,7 @@ opam-version: "1"
 
 name : "poy"
 
-version : "5.0.0"
+version : "5.1.0"
 
 homepage : "http://www.amnh.org/our-research/computational-sciences/research/projects/systematic-biology/poy"
 
