@@ -10,3 +10,7 @@ packages/phylocaml.dev/descr b66549f7d415595b6ae75d961faff629 0o644
 packages/ocamion.dev/url 2c2a08e942c7f17e9276e6995787ce44 0o644
 packages/ocamion.dev/opam 139661225ee9868313e340c44c5663c0 0o644
 packages/ocamion.dev/descr c8c7111cbd7274078007e20048b3b935 0o644
+archives/poy.5.1.1+opam.tar.gz 967d3e71cd73860a9357e6b8475d72a3 0o644
+archives/poy.5.1.0+opam.tar.gz 4d769a36c85b6fb86801d3c0cb3a1b3f 0o644
+archives/phylocaml.dev+opam.tar.gz 8a8495d483c58a18b3245ef3ad8531dc 0o644
+archives/ocamion.dev+opam.tar.gz a3ff6e98487698e9ef85506ca425589a 0o644
